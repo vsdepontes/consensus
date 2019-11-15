@@ -14,7 +14,6 @@ import sys
 import subprocess
 from os import remove
 from os import popen
-from os import environ
 from os import devnull
 
 
